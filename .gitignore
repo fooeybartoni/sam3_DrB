@@ -153,3 +153,4 @@ Thumbs.db
 *.vocab
 write_token.txt
 read_token.txt
+.env
